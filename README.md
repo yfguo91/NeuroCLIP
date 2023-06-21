@@ -17,7 +17,7 @@ NeuroCLIP  uses the CLIP’s 2D pre-trained knowledge to understand the neuromor
 Create a conda environment and install dependencies:
 
 ```bash
-git clone https://github.com/ZrrSkywalker/PointCLIP.git
+git clone https://github.com/yfguo91/NeuroCLIP.git
 cd NeuroCLIP
 
 conda create -n neuroclip python=3.7
