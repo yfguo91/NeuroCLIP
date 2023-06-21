@@ -70,7 +70,7 @@ This repo benefits from [CLIP](https://github.com/openai/CLIP), [SimpleView](htt
 ## Citation
 
 ```bash
-@article{zhang2021pointclip,
+@article{guo2023neuroclip,
   title={NeuroCLIP: Neuromorphic Data Understanding by CLIP and SNN},
   author={},
   journal={arXiv preprint arXiv:2112.02413},
