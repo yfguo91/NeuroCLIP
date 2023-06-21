@@ -65,7 +65,7 @@ bash fews.sh
 
 ## Acknowlegment
 
-This repo benefits from [CLIP](https://github.com/openai/CLIP), [SimpleView](https://github.com/princeton-vl/SimpleView) and the excellent codebase [Dassl](https://github.com/KaiyangZhou/Dassl.pytorch),[PointCLIP]([GitHub - ZrrSkywalker/PointCLIP: [CVPR 2022] PointCLIP: Point Cloud Understanding by CLIP](https://github.com/ZrrSkywalker/PointCLIP)). Thanks for their wonderful works.
+This repo benefits from [CLIP](https://github.com/openai/CLIP), [SimpleView](https://github.com/princeton-vl/SimpleView) and the excellent codebase [Dassl](https://github.com/KaiyangZhou/Dassl.pytorch),[PointCLIP](https://github.com/ZrrSkywalker/PointCLIP). Thanks for their wonderful works.
 
 ## Citation
 
