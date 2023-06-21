@@ -1,0 +1,9 @@
+flake8==3.7.9
+future
+gdown
+isort==4.3.21
+scikit-learn
+scipy
+tb-nightly
+yacs
+yapf==0.29.0
