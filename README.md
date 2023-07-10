@@ -72,8 +72,8 @@ This repo benefits from [CLIP](https://github.com/openai/CLIP), [SimpleView](htt
 ```bash
 @article{guo2023neuroclip,
   title={NeuroCLIP: Neuromorphic Data Understanding by CLIP and SNN},
-  author={},
-  journal={arXiv preprint arXiv:2112.02413},
+  author={Guo, Yufei and Chen, Yuanpei},
+  journal={arXiv preprint arXiv:2306.12073},
   year={2023}
 }
 ```
